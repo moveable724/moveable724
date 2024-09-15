@@ -5,3 +5,5 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dong_h)](https://solved.ac/dong_h)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dong-b&layout=compact&theme=dark)
