@@ -5,8 +5,8 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dong_h)](https://solved.ac/dong_h)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=(dong_h)&theme=(dark))
-<img src="http://mazandi.herokuapp.com/api?handle=(dong_h)&theme(dark)"/>
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
 
 
 
