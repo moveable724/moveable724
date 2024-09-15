@@ -6,7 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dong_h)](https://solved.ac/dong_h)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={dong_h}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dong_h&theme=cold)
 
 
 
