@@ -1,7 +1,7 @@
 #  Hi  there 👋
 
 ### Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&3776AB=Yellow)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&3776AB=Red)
 
 
 <!--
